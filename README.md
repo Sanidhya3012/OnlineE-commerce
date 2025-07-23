@@ -63,4 +63,4 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 - Static files are served automatically in development. For production, use Django's static files handling.
 
 ## License
-This project is for educational purposes. 
+This project is for Practice purposes. 
